@@ -15,7 +15,7 @@ namespace Rap_Finands
         public static string reginummer = "4242";
         public static string datafil = "bank.json"; //Her ligger alt data i
         public static List<Konto> konti;
-        public static float belob;
+        //Slettet belob: publib static float
         static void Main(string[] args)
         {
             Console.WriteLine("Henter alt kontodata");
@@ -48,9 +48,12 @@ namespace Rap_Finands
                 Console.WriteLine("0. Afslut");
 
                 Console.Write(">");
-                string valg1 = Console.ReadLine();
-                int valg = int.Parse(valg1+);
-                
+
+
+                int.TryParse(Console.ReadLine(), out int valg);
+
+                //Fjernede unødvendige linjer og tilsluttede dem i en funktion.
+
                 switch (valg) {
                     case 1:
                         dos_opretKonto();
@@ -152,7 +155,7 @@ namespace Rap_Finands
             if (saldo + beløb < 0) return false;
             var t = new Transaktion();
             t.tekst = tekst;
-            t.amount = belob;
+            t.amount = beløb; //Ændrede belob til beløb
             t.saldo = t.amount + saldo;
             t.dato = DateTime.Now;
             

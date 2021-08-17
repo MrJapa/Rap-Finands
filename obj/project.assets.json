@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jjv\\Desktop\\Rap_Finands\\Rap Finands.csproj",
+      "projectUniqueName": "C:\\Users\\jjv\\Documents\\GitHub\\Rap Finands\\Rap Finands.csproj",
       "projectName": "Rap Finands",
-      "projectPath": "C:\\Users\\jjv\\Desktop\\Rap_Finands\\Rap Finands.csproj",
+      "projectPath": "C:\\Users\\jjv\\Documents\\GitHub\\Rap Finands\\Rap Finands.csproj",
       "packagesPath": "C:\\Users\\jjv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jjv\\Desktop\\Rap_Finands\\obj\\",
+      "outputPath": "C:\\Users\\jjv\\Documents\\GitHub\\Rap Finands\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jjv\\AppData\\Roaming\\NuGet\\NuGet.Config",

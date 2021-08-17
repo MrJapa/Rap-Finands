@@ -26,3 +26,18 @@ C:\Users\jjv\Desktop\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.csproj.Copy
 C:\Users\jjv\Desktop\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.dll
 C:\Users\jjv\Desktop\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.pdb
 C:\Users\jjv\Desktop\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.genruntimeconfig.cache
+C:\Users\jjv\Documents\GitHub\Rap Finands\obj\Debug\netcoreapp3.0\Rap Finands.csprojAssemblyReference.cache
+C:\Users\jjv\Documents\GitHub\Rap Finands\obj\Debug\netcoreapp3.0\Rap Finands.AssemblyInfoInputs.cache
+C:\Users\jjv\Documents\GitHub\Rap Finands\obj\Debug\netcoreapp3.0\Rap Finands.AssemblyInfo.cs
+C:\Users\jjv\Documents\GitHub\Rap Finands\obj\Debug\netcoreapp3.0\Rap Finands.csproj.CoreCompileInputs.cache
+C:\Users\jjv\Documents\GitHub\Rap Finands\obj\Debug\netcoreapp3.0\Rap Finands.dll
+C:\Users\jjv\Documents\GitHub\Rap Finands\obj\Debug\netcoreapp3.0\Rap Finands.pdb
+C:\Users\jjv\Documents\GitHub\Rap Finands\bin\Debug\netcoreapp3.0\Rap Finands.exe
+C:\Users\jjv\Documents\GitHub\Rap Finands\bin\Debug\netcoreapp3.0\Rap Finands.deps.json
+C:\Users\jjv\Documents\GitHub\Rap Finands\bin\Debug\netcoreapp3.0\Rap Finands.runtimeconfig.json
+C:\Users\jjv\Documents\GitHub\Rap Finands\bin\Debug\netcoreapp3.0\Rap Finands.runtimeconfig.dev.json
+C:\Users\jjv\Documents\GitHub\Rap Finands\bin\Debug\netcoreapp3.0\Rap Finands.dll
+C:\Users\jjv\Documents\GitHub\Rap Finands\bin\Debug\netcoreapp3.0\Rap Finands.pdb
+C:\Users\jjv\Documents\GitHub\Rap Finands\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\jjv\Documents\GitHub\Rap Finands\obj\Debug\netcoreapp3.0\Rap Finands.csproj.CopyComplete
+C:\Users\jjv\Documents\GitHub\Rap Finands\obj\Debug\netcoreapp3.0\Rap Finands.genruntimeconfig.cache
