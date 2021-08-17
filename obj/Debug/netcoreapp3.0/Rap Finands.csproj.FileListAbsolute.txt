@@ -1,0 +1,28 @@
+c:\Users\sinb\Documents\Opgave med rap finands\bin\Debug\netcoreapp3.0\Rap Finands.exe
+C:\Users\sinb\Documents\Opgave med rap finands\bin\Debug\netcoreapp3.0\Rap Finands.deps.json
+C:\Users\sinb\Documents\Opgave med rap finands\bin\Debug\netcoreapp3.0\Rap Finands.runtimeconfig.json
+C:\Users\sinb\Documents\Opgave med rap finands\bin\Debug\netcoreapp3.0\Rap Finands.runtimeconfig.dev.json
+c:\Users\sinb\Documents\Opgave med rap finands\bin\Debug\netcoreapp3.0\Rap Finands.dll
+c:\Users\sinb\Documents\Opgave med rap finands\bin\Debug\netcoreapp3.0\Rap Finands.pdb
+c:\Users\sinb\Documents\Opgave med rap finands\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+c:\Users\sinb\Documents\Opgave med rap finands\obj\Debug\netcoreapp3.0\Rap Finands.csprojAssemblyReference.cache
+c:\Users\sinb\Documents\Opgave med rap finands\obj\Debug\netcoreapp3.0\Rap Finands.AssemblyInfoInputs.cache
+c:\Users\sinb\Documents\Opgave med rap finands\obj\Debug\netcoreapp3.0\Rap Finands.AssemblyInfo.cs
+C:\Users\sinb\Documents\Opgave med rap finands\obj\Debug\netcoreapp3.0\Rap Finands.csproj.CopyComplete
+c:\Users\sinb\Documents\Opgave med rap finands\obj\Debug\netcoreapp3.0\Rap Finands.dll
+c:\Users\sinb\Documents\Opgave med rap finands\obj\Debug\netcoreapp3.0\Rap Finands.pdb
+C:\Users\jjv\Desktop\Rap_Finands\bin\Debug\netcoreapp3.0\Rap Finands.exe
+C:\Users\jjv\Desktop\Rap_Finands\bin\Debug\netcoreapp3.0\Rap Finands.deps.json
+C:\Users\jjv\Desktop\Rap_Finands\bin\Debug\netcoreapp3.0\Rap Finands.runtimeconfig.json
+C:\Users\jjv\Desktop\Rap_Finands\bin\Debug\netcoreapp3.0\Rap Finands.runtimeconfig.dev.json
+C:\Users\jjv\Desktop\Rap_Finands\bin\Debug\netcoreapp3.0\Rap Finands.dll
+C:\Users\jjv\Desktop\Rap_Finands\bin\Debug\netcoreapp3.0\Rap Finands.pdb
+C:\Users\jjv\Desktop\Rap_Finands\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\jjv\Desktop\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.csprojAssemblyReference.cache
+C:\Users\jjv\Desktop\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.AssemblyInfoInputs.cache
+C:\Users\jjv\Desktop\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.AssemblyInfo.cs
+C:\Users\jjv\Desktop\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.csproj.CoreCompileInputs.cache
+C:\Users\jjv\Desktop\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.csproj.CopyComplete
+C:\Users\jjv\Desktop\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.dll
+C:\Users\jjv\Desktop\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.pdb
+C:\Users\jjv\Desktop\Rap_Finands\obj\Debug\netcoreapp3.0\Rap Finands.genruntimeconfig.cache
